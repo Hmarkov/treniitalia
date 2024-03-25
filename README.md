@@ -16,7 +16,7 @@ The inspiration behind developing TreniItalia stems from personal experiences of
 
 ## Preview
 
-![Preview](https://github.com/Hmarkov/treniitalia/blob/main/gifs/firstdraft.gif)
+<img src="https://github.com/Hmarkov/treniitalia/blob/main/gifs/firstdraft.gif"  height="700">
 
 ---
 
